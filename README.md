@@ -13,7 +13,7 @@ See https://strava.com/developers for details
 
 ## Credits
 
-* [Ryan Baumann] (https://ryanbaumann.com) (Author of ADV) 
+* [Ryan Baumann] (https://ryanbaumann.com) 
 
 ## License
 The MIT License (MIT)
