@@ -1,0 +1,15 @@
+{ "type": "FeatureCollection",
+	"features": [
+  {  "type": "Feature",
+       "geometry": {
+              "type": "LineString", 
+              "coordinates": []
+       }, 
+       "properties": {
+              "name": "WTF Bridge", 
+              "seg_linestring": "[(40.68257, -89.59088), (40.68669, -89.59291)]"
+       }
+
+	}
+	]
+}
