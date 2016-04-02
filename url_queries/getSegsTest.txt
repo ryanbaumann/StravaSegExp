@@ -1,0 +1,1 @@
+http://localhost:33507/segment_data/?startLat=40.8&startLong=-89.7&endLat=40.9&endLong=-89.6&act_type=riding
