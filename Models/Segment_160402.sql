@@ -15,7 +15,7 @@ CREATE TABLE "Segment"
   elev_high double precision,
   elev_low double precision,
   name character varying(300),
-  seg_points character varying,
+  seg_points text,
   start_point geometry,
   end_point geometry,
   CONSTRAINT seg_id_pk PRIMARY KEY (seg_id)
