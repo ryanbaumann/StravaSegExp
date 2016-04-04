@@ -1,9 +1,11 @@
 ## Strava_SegExp
-*powered by Strava and the Stravalib SDK*
+*powered by Pandas, Mapbox, and Strava*
 
 
 ## Purpose
-Python library workaround for Strava API - returns all segments in a given lat/long bound.
+Instructions on how to embed a Mapbox Visual directly in a Jupyter Notebook.
+See the Strava API Exploration .py and .ipyn files for examples in this repo.
+See https://www.ryanbaumann.com/blog/2016/4/3/embedding-mapbox-plots-in-jupyter-notebooks for context of this repo.
 IN PROGRESS.
 
 
